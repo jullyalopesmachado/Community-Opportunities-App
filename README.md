@@ -4,11 +4,6 @@ Student Name: Júllya Lopes Machado
 Assignment Due Date: Wednesday, April 30, 2025
 Server IP: 104.248.12.12
 
-Admin Login Credentials
-Username: jujubaju
-
-Password: pass
-
 Live Demo Links
 Front End: http://104.248.12.12
 
